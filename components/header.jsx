@@ -3,7 +3,10 @@ import Link from 'next/link';
 const pages = [
   { href: '/', title: 'Home' },
   { href: '/user-list', title: 'User List (jsph)' },
-  {href:'/character-list',title:'Rick and Morty characters'}
+  { href: '/character-list', title: 'Rick and Morty characters' },
+  { href: '/swr-user-list', title: 'SWR Users' },
+  { href: '/swr-character-list', title: 'SWR Characters' },
+
   // { href: '/todo', title: 'ToDo List' },
   // { href: '/todo-delegation', title: 'ToDo delegation' },
   // { href: '/calendar', title: 'Calendar' },

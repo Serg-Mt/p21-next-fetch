@@ -1,0 +1,6 @@
+th.sorted::before{
+  content:'🔼' 
+} 
+th.sorted.descending::before{
+  content:'🔽' 
+} 
